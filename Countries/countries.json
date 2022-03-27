@@ -1,0 +1,47 @@
+[
+    {
+        "id": "Q237",
+        "name": "Vatican",
+        "code": "VA",
+        "capital": "Vatican City",
+        "flagImageUri": "https://www.countryflags.com/wp-content/uploads/vatican-city-flag-png-large.png" ,
+        "callingCode": "+379",
+        "currencyCodes": "EUR"
+    },
+    {
+        "id": "Q115",
+        "name": "Ethiopia",
+        "code": "ET",
+        "capital": "Addis Ababa",
+        "flagImageUri": "https://cdn.countryflags.com/thumbs/ethiopia/flag-800.png",
+        "callingCode": "+251",
+        "currencyCodes": "ETB"
+    },
+    {
+        "id": "Q236",
+        "name": "Montenegro",
+        "code": "ME",
+        "capital": "Podgorica",
+        "flagImageUri": "https://www.countryflags.com/wp-content/uploads/montenegro-flag-png-large.png",
+        "callingCode": "+382",
+        "currencyCodes": "EUR"
+    },
+    {
+        "id": "Q1030",
+        "name": "Namibia",
+        "code": "NA",
+        "capital": "Windhoek",
+        "flagImageUri": "https://www.countryflags.com/wp-content/uploads/namibia-flag-png-large.png",
+        "callingCode": "+264",
+        "currencyCodes": "NAD"
+    },
+    {
+        "id": "Q117",
+        "name": "Ghana",
+        "code": "GH",
+        "capital": "Accra",
+        "callingCode": "+233",
+        "flagImageUri": "https://cdn.countryflags.com/thumbs/ghana/flag-800.png",
+        "currencyCodes": "GHS"
+    }
+]
